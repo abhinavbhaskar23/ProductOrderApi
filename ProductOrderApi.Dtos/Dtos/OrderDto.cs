@@ -1,5 +1,5 @@
 ﻿
-using ProductOrderApi.Models;
+using ProductOrderApi.Dtos;
 
 public class OrderDto
 {

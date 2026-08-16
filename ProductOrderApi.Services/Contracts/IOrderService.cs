@@ -1,4 +1,4 @@
-﻿using ProductOrderApi.Models;
+﻿using ProductOrderApi.Dtos;
 
 namespace ProductOrderApi.Services
 {

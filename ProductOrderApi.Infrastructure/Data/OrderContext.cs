@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.Identity.Client;
 using ProductOrderApi.Data.Entities;
 
 namespace ProductOrderApi.Data

@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using ProductOrderApi.Models;
+using ProductOrderApi.Dtos;
 using ProductOrderApi.Services;
 
 namespace ProductOrderApi.Controllers

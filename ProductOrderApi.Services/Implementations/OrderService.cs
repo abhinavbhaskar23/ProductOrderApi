@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using ProductOrderApi.Data;
 using ProductOrderApi.Data.Entities;
-using ProductOrderApi.Models;
+using ProductOrderApi.Dtos;
 
 namespace ProductOrderApi.Services
 {

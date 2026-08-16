@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 using ProductOrderApi.Data.Entities;
-using ProductOrderApi.Models;
+using ProductOrderApi.Dtos;
 
 namespace ProductOrderApi.Mapping;
 

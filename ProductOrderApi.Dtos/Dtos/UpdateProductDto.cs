@@ -1,4 +1,4 @@
-﻿namespace ProductOrderApi.Models
+﻿namespace ProductOrderApi.Dtos
 {
     public class UpdateProductDto
     {

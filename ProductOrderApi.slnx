@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="ProductOrderApi.Dtos/ProductOrderApi.Dtos.csproj" />
+  <Project Path="ProductOrderApi.Infrastructure/ProductOrderApi.Infrastructure.csproj" />
+  <Project Path="ProductOrderApi.Services/ProductOrderApi.Services.csproj" />
   <Project Path="ProductOrderApi/ProductOrderApi.csproj" />
 </Solution>

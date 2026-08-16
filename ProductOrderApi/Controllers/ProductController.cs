@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using ProductOrderApi.Models;
-using ProductOrderApi.Services;
+using ProductOrderApi.Dtos;
+using ProductOrderApi.Services.Contracts;
 
 namespace ProductOrderApi.Controllers
 {

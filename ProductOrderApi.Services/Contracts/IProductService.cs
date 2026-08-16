@@ -1,6 +1,6 @@
-﻿using ProductOrderApi.Models;
+﻿using ProductOrderApi.Dtos;
 
-namespace ProductOrderApi.Services
+namespace ProductOrderApi.Services.Contracts
 {
     public interface IProductService
     {
